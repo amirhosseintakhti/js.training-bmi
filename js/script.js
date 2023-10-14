@@ -26,3 +26,7 @@ function upDateSlider2() {
     h1.innerHTML = slider2.value; 
 }
 
+function calculate(){
+    height /= 100;
+    height *= height
+}
