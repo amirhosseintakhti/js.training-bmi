@@ -10,6 +10,7 @@ const slider2 = document.getElementById("myHeight");
 let w1 = document.getElementById("w1");
 let h1 = document.getElementById("h1");
 
+let bmi;
 let weight = 80;
 let height = 170;
 
@@ -28,5 +29,6 @@ function upDateSlider2() {
 
 function calculate(){
     height /= 100;
-    height *= height
+    height *= height;
+
 }
