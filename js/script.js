@@ -7,5 +7,6 @@
 // })
 const slider = document.getElementById("myWeight");
 function upDateSlider() {
+    console.log(slider.value);
     
 }
