@@ -1,0 +1,7 @@
+.weight-slider, .height-slider {
+    width: 50%;
+    height: 1px;
+    border-radius: 10px;
+    background: aqua;
+    outline: none;
+  }
